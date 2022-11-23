@@ -50,7 +50,7 @@ img{
   padding:0;
 }
 
-.contact,exp{
+.contact,.exp{
   display: none;
   width: 100vh;
   overflow:hidden;
