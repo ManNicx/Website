@@ -52,7 +52,13 @@ img{
 
 .contact,.exp{
   display: none;
-  width: 100vh;
+  width: 95vw;
+  overflow:hidden;
+}
+
+.exp{
+display: none;
+  width: 95vw;
   overflow:hidden;
 }
 
