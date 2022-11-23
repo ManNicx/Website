@@ -98,7 +98,7 @@ img{
   
 }
 
-@media screen and (min-height:950px){
+@media screen and (min-height:950px,min-width:900px){
 
 .home,phil,exp,contact,attach,portfolio{
   padding-top:200px;
